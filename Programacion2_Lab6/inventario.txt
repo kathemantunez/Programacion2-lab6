@@ -1,0 +1,2 @@
+dona
+Ventas{total_venta=74.05999999999999, fecha=6}
